@@ -7,6 +7,6 @@
 <P>deploy:</P> https://linaroge.github.io/ProyectoCV/
 
 ## proyectos forkeados y commiteados:
-https://github.com/LinaRoge/FranciscoJavierN.github.io
-https://github.com/LinaRoge/Eazj.github.io
-<p> Espero les sea de utilidad <p>
+<P>https://github.com/LinaRoge/FranciscoJavierN.github.io </P>
+<P>https://github.com/LinaRoge/Eazj.github.io</P>
+<p> Espero les sea de utilidad </p>
