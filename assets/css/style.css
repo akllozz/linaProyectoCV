@@ -47,14 +47,7 @@ html {
 .contenedor-header header ul li a:hover {
   color: #1cb698;
 }
-.nav-responsive {
-  background-color: #1cb698;
-  color: #fff;
-  padding: 5px 10px;
-  border-radius: 5px;
-  cursor: pointer;
-  display: none;
-}
+
 /*SECCION INICIO*/
 
 .inicio {
